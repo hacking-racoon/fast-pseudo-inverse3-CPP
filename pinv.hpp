@@ -1,6 +1,7 @@
-#include "svd3.hpp"
+
 #ifndef PINV_HPP
 #define PINV_HPP
+#include "svd3.hpp"
 
 void pinv(float a11, float a12, float a13,
     float a21, float a22, float a23,
